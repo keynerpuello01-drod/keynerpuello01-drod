@@ -27,7 +27,7 @@ const keyner = {
 <table>
   <tr>
     <td align="center">
-      <a href="https://keynerpuello01-drod.github.io/void-drifter-2/">
+      <a href="https://keynerpuello01-drod.github.io/plomo-en-la-galaxia-/">
         <img src="https://img.shields.io/badge/🕹️-PLAY%20NOW-00FF00?style=for-the-badge&logo=github" alt="Play Game">
       </a>
       <br>
@@ -83,7 +83,7 @@ const keyner = {
   <a href="https://github.com/keynerpuello01-drod">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://keynerpuello01-drod.github.io/void-drifter-2/">
+  <a href="https://keynerpuello01-drod.github.io/plomo-en-la-galaxia-/">
     <img src="https://img.shields.io/badge/🎮-Play%20My%20Game-44AAFF?style=for-the-badge" alt="Play Game">
   </a>
 </p>
